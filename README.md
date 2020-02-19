@@ -13,8 +13,9 @@ Fork the project and import it in Android Studio.
 
 ## Authors
 
+* *Prabhjot Kaur** - *Initial work* - [Prabhjot](https://github.com/Prabhjot143)
 * **Nayayjeet Sharma** - *Initial work* - [Nayay](https://github.com/Nayay)
-* *Prabhjot Kaur* - *Initial work* - [Prabhjot](https://github.com/Prabhjot143)
+
 
 ## License
 
